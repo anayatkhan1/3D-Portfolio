@@ -64,38 +64,18 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
+    // {
+    //   name: "JavaScript",
+    //   icon: javascript,
+    // },
   
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Material UI",
-      icon: mui,
-    },
-    {
-      name: "Framer motion",
-      icon: framer,
     },
     {
       name: "Three JS",
@@ -108,19 +88,7 @@ import {
     {
       name: "MongoDB",
       icon: mongodb,
-    },
-    // {
-    //   name: "openai api",
-    //   icon: openai,
-    // },
-    // {
-    //   name: "rapid api",
-    //   icon: rapid,
-    // },
-    {
-      name: "git",
-      icon: git,
-    }
+    }    
   ];
   
   const experiences = [
