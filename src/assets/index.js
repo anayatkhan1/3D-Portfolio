@@ -14,6 +14,7 @@ import framer from "./tech/framer.png";
 // import rapid from "./tech/rapid.png";
 // import openai from "./tech/openai.png"
 
+import  ven from "./tech/ven.png";
 
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -23,13 +24,17 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-
+import nextjs from "./tech/nextjs.png";
+import typescript from "./tech/typescript.png";
+import jest from "./tech/jest.png";
+import playwrite from "./tech/playwrite.png"
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sampyl from "./company/sampyl.png"
 
 import tshirt from "./tshirt.png";
 import cat from "./cat.png";
@@ -55,22 +60,29 @@ export {
   // rapid,
   // openai,
   html,
+  typescript,
   javascript,
   mongodb,
   nodejs,
   reactjs,
+  nextjs,
   redux,
   tailwind,
-
   threejs,
+  jest,
+  playwrite,
+
   meta,
+  sampyl,
   shopify,
   starbucks,
   tesla,
+
   tshirt,
   cat,
   article,
   fitness,
   portfolio,
-  clone
+  clone,
+  ven
 };
